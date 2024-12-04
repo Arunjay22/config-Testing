@@ -1,15 +1,4 @@
-server:
-  port: 8085
 
-spring:
-  application:
-    name: Testing-Config
-  cloud:
-    config:
-      uri: http://localhost:8888
-  profiles:
-    active: prod
----
 spring:
   config:
     activate:
