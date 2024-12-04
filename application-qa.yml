@@ -1,6 +1,7 @@
 spring:
   application:
-    name: Testing-Config
+    name: one-one
+
   datasource:
     url: jdbc:mysql://localhost:3306/one-one-qa
     username: root
