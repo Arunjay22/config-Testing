@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: one-one
 
   datasource:
     url: jdbc:mysql://localhost:3306/one-one-qa
